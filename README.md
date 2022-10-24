@@ -5,11 +5,9 @@
 - 📫 How to reach me ? Here
 
 
-[I'm an inline-style link with title](https://eduardo239.github.io/card-game/ "Google's Homepage")
+[Project Card Game](https://eduardo239.github.io/card-game/ "Project Card Game")
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[Project Movie List](https://movies-iws.vercel.app/ "Project Movie List")
 
 <!---
 eduardo239/eduardo239 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
