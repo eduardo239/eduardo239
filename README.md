@@ -9,7 +9,7 @@
 
 [Project Movie List](https://movies-iws.vercel.app/ "Project Movie List")
 
-[Project Code Challenge](https://eduardo239.github.io/r10s/ "Project Code Challenge")
+[Project Code Challenge](https://soft-malasada-0397a0.netlify.app/ "Project Code Challenge")
 
 <!---
 eduardo239/eduardo239 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
