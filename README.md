@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eduardo239
-- 👀 I’m interested in c++, cloud computing
-- 🌱 I’m currently learning python, java, javascript, vue  and react
+- 👀 I’m interested in c++, cloud computing, ai
+- 🌱 I’m currently learning python, java, vue  and react
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me ? Here
 
