@@ -1,11 +1,13 @@
 - 👋 Hi, I’m @eduardo239
-- 👀 I’m interested in c++, cloud computing, ai
+- 👀 I’m interested in cloud computing, ai
 - 🌱 I’m currently learning python, java, vue  and react
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me ? Here
 
 
 [Project Card Game](https://eduardo239.github.io/card-game/ "Project Card Game")
+
+[Project Movie Tracker](https://film27-313f3.web.app/movie)
 
 [Project Movie List](https://movies-iws.vercel.app/ "Project Movie List")
 
